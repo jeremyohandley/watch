@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Watch</string>
+    <string name="search_button_hint">Click to search</string>
+    <string name="search_bar_hint">Type a name</string>
 </resources>
