@@ -2,4 +2,11 @@
     <string name="app_name">Watch</string>
     <string name="search_button_hint">Click to search</string>
     <string name="search_bar_hint">Type a name</string>
+    <string name="officer_name_hint">Officer\'s Name</string>
+    <string name="officer_department_hint">Officer\'s Department (Full Name)</string>
+    <string name="officer_badge_number_hint">Officer\'s Badge Number</string>
+    <string name="description_hint">Brief Description of Encounter</string>
+    <string name="review_title_text">Write A Review</string>
+    <string name="review_advisory_text">This kind of review should never replace an official complaint.</string>
+    <string name="review_button_text">Complete Review</string>
 </resources>
